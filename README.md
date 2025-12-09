@@ -12,4 +12,6 @@ Cognitive
 
 [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2D3C7DE7D3CF5F5A4D2187B3BDD7D41D8A57BE27BC41C19170D667C22FD4AAF5)
 
+[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A9E976C7B9A547A119039EE3B157C4F35494652E92B8AD9F4F5F636D3B09854F)
+
 • I'm interested in HTML, CSS, Basic Programming, and UI/UX design
