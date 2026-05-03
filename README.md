@@ -1,6 +1,6 @@
 • Hi, I'm Habibiy C. Yasin
 
-• I'm Currently learning at New Era University with a course of Information Technology
+• I am Habibiy C. Yasin, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program.
 
 • Certifications: 
 
