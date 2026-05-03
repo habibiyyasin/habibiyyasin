@@ -33,6 +33,6 @@
 
 • You may reach me at:
 
-LinkedIn:[LinkedIn Profile](https://www.linkedin.com/in/habibiy-yasin-b177b4407/?isSelfProfile=true)
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/habibiy-yasin-b177b4407/?isSelfProfile=true)
 
-Email:habibiy.yasin@neu.edu.ph
+Email: habibiy.yasin@neu.edu.ph
