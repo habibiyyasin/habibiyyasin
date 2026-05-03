@@ -18,21 +18,13 @@
 
 [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A9E976C7B9A547A119039EE3B157C4F35494652E92B8AD9F4F5F636D3B09854F)
 
-• Programming
-- Java  
-- JavaScript
-
-• Databases
-- IBM DB2 Cloud
-
-• Tools
-- Lucidchart  
-- Jaspersoft Studio  
-- Eclipse  
-- HTML
-
+### 🛠 Skill Sets
+* **Programming:** Java, JavaScript
+* **Databases:** IBM DB2 Cloud
+* **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+  
 • You may reach me at:
 
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/habibiy-yasin-b177b4407/?isSelfProfile=true)
+LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/habibiy-yasin-b177b4407/?isSelfProfile=true)
 
-Email: habibiy.yasin@neu.edu.ph
+Email: [habibiy.yasin@neu.edu.ph](mailto:habibiy.yasin@neu.edu.ph)
