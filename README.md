@@ -2,9 +2,13 @@
 
 • I am Habibiy C. Yasin, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program.
 
+• **Bachelor of Science in Information Technology**  
+  *New Era University*  
+  *2023 - Present*
+
 • Certifications: 
 
-Cognitive
+[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/355e1317b2a94aa08b925430b48322dc)
 
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/942f8cff763640d58d767a1754c067bc)
 
